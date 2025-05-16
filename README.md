@@ -12,7 +12,14 @@ A sleek dark theme with pacific blue accents and Solarized-inspired terminal col
 
 ## Screenshots
 
-[Add screenshots here showing different aspects of your theme]
+### Python Code View
+![Python Code View](screenshots/editor-view-python.png)
+
+### Go Code View
+![Go Code View](screenshots/editor-view-golang.png)
+
+### Terminal with Solarized-inspired Colors
+![Terminal View](screenshots/terminal-view.png)
 
 ## Installation
 

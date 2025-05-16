@@ -40,9 +40,5 @@
     "url": "https://github.com/msanath/pacific-blue-theme/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/msanath/pacific-blue-theme#readme",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/msanath/pacific-blue-theme#readme"
 }
