@@ -25,42 +25,6 @@ You can install this theme through the [Visual Studio Code Marketplace](https://
 5. Press `Cmd+K Cmd+T` (macOS) or `Ctrl+K Ctrl+T` (Windows/Linux)
 6. Select "Pacific Blue" from the theme dropdown
 
-## Color Palette
-
-The theme uses the following carefully selected colors:
-
-### UI Colors
-- Primary Background: `#193549` - Deep ocean blue
-- Secondary Background: `#122738` - Darker blue for contrast
-- Accent: `#ffc600` - Bright gold for highlights
-- Text: `#ffffff` - Pure white for maximum readability
-
-### Terminal Colors
-- Background: `#002b36` - Solarized dark
-- Text: `#839496` - Solarized base0
-- Selection: `#073642` - Solarized base02
-- Accent Colors:
-  - Blue: `#268bd2`
-  - Cyan: `#2aa198`
-  - Green: `#859900`
-  - Red: `#dc322f`
-  - Magenta: `#d33682`
-
-## Customization
-
-Want to customize the theme? You can override any color in your `settings.json`:
-
-```json
-{
-    "workbench.colorCustomizations": {
-        "[Pacific Blue]": {
-            "editor.background": "#193549",
-            "editor.foreground": "#ffc600"
-        }
-    }
-}
-```
-
 ## Contributing
 
 Found a bug or have a suggestion? Please open an issue on [GitHub](https://github.com/msanath/pacific-blue-theme).
