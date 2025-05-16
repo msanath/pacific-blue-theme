@@ -1,0 +1,48 @@
+{
+  "name": "pacific-blue-theme",
+  "displayName": "Pacific Blue Theme",
+  "description": "A sleek dark theme with pacific blue accents and Solarized-inspired terminal colors",
+  "version": "1.0.0",
+  "publisher": "msanath",
+  "author": "Sanath Manavarte (https://github.com/msanath)",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue",
+    "pacific",
+    "solarized"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#193549",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pacific Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pacific-blue-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msanath/pacific-blue-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msanath/pacific-blue-theme/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/msanath/pacific-blue-theme#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
